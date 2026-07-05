@@ -63,11 +63,11 @@ export default function Login({ onLogin }: Props) {
                 display: "flex", alignItems: "center", justifyContent: "center",
                 overflow: "hidden"
               }}>
-                <img src="/lion.jpg" alt="AGGlory" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+                <img src="/lion.jpg" alt="FM ABDULLAH" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
               </div>
             </div>
             <h2 className="heading" style={{ fontSize: 28, fontWeight: 800, color: "#fff", marginBottom: 6 }}>Welcome Back</h2>
-            <p style={{ fontSize: 13, color: "var(--text-muted)" }}>Sign in to <span style={{ color: "var(--gold3)", fontWeight: 600 }}>AGGlory</span> panel</p>
+            <p style={{ fontSize: 13, color: "var(--text-muted)" }}>Sign in to <span style={{ color: "var(--gold3)", fontWeight: 600 }}>FM ABDULLAH</span> panel</p>
           </div>
 
           {/* Tabs */}
